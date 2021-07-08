@@ -84,3 +84,11 @@ article {
   text-justify: inter-word;
   margin-right: 20px;
 }
+
+.core-comp {
+  width: 425px;
+}
+
+.soft-skills {
+  width: 350px;
+}
